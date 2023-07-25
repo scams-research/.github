@@ -1,3 +1,3 @@
 # SCAMs@bristol
 
-Webpage: scams-research.github.io
+Webpage: [https://scams-research.github.io](scams-research.github.io)
